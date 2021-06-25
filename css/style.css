@@ -1,0 +1,55 @@
+
+.bg-tile {
+    background: #A2DBFA;
+}
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+.bg-head{
+    background: #A2DBFA;
+}
+
+@media(max-width: 768px){
+
+    .mb-resp {
+        margin-bottom: 1rem;
+    }
+}
+.netflix{
+    color: #E50914;
+    text-transform: uppercase;
+    font-size: 5.2rem;
+}
+.netflix-sm{
+    color: #E50914;
+    text-transform: uppercase;
+    font-size: 1.5srem;
+}
+.display-1a{
+    font-size: 4.8rem;
+}
+#learsn .fas{
+    color: #008ed6;
+    background: #fff;
+    padding: 6px;
+    border-radius: 5px;
+}
+#learn-body .fas{
+    background: #ffc107;
+    padding: 5px;
+    border-radius: 5px;
+}
+.bg-darkn{
+    background-color: rgb(31, 31, 31);
+}
+.text-whiten{
+    color: rgb(224, 224, 224);
+}
+::-moz-selection { /* Code for Firefox */
+    color: #ffc107;
+    background: #E50914;
+  }
+  
+  ::selection {
+    color: #ffc107;
+    background: #E50914;
+  }
